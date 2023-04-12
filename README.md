@@ -4,17 +4,10 @@
 
 ## A Telegram bot to extract various types of archives
 
-![Unzip logo](https://telegra.ph/file/d4ba24682e030fc58613f.jpg)
-
-<a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
-[![DeepSource](https://deepsource.io/gh/EDM115/unzip-bot.svg/?label=active+issues&show_trend=true&token=17SfwVx77dbrFlixtGdQsQNh)](https://deepsource.io/gh/EDM115/unzip-bot/?ref=repository-badge)
-
-</div>
-
-</br></br>
+!UnZipBot
 
 ## Working bot 🥰
-[@unzip_edm115bot](https://t.me/unzip_edm115bot)  
+itz my bot : [JackeyBots](https://telegram.dog/jackeybots) 
   
 ## Features 👀
 - Extract all format of archives like `rar`, `zip`, `tar`, `7z`, `tar.xz`, …
@@ -77,11 +70,11 @@ sudo pacman -S p7zip
 bash start.sh
 ```
 ---
-**DONE 🥳 enjoy the bot !** Be sure to follow me on [Github](https://github.com/EDM115) and Star 🌟 this repo to show some support 🥺
+**DONE 🥳 enjoy the bot !** Be sure to follow me on [Github](https://github.com/pyropriest) and Star 🌟 this repo to show some support 🥺
   
   
 ## Found a bug 🐞
-If you found a bug in this bot please open an [issue](https://github.com/EDM115/unzip-bot/issues) or report it on Telegram : [@EDM115](https://t.me/EDM115)  
+If you found a bug in this bot please open an [issue](https://github.com/pyropriest/unzipbot/issues) or report it on Telegram : [JackeyBots](https://t.me/jackeybots)  
 Same if you have any feature request 😉
   
 ## License & Copyright 👮‍♀️
@@ -91,4 +84,4 @@ Copyright (c) 2022 EDM115
 This Unarchiver Bot repository is licensed under MIT License (https://github.com/EDM115/unzip-bot/blob/master/LICENSE)
 Enjoy copying and modifying, but always mention me
 ```
-• Inspired by Itz-fork/Nexa’s work, but with additional features and bug fixes. This is a maintained repo of the [original](https://github.com/Itz-fork/Unzipper-Bot)
+• Inspired by Itz-fork/Nexa’s work, but with additional features and bug fixes.
